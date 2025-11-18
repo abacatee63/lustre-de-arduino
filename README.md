@@ -1,2 +1,15 @@
-# lustre-de-arduino
-lustre de arduino
+LISTA DE MATERIAS:
+3 LEDS
+3 RESISTORES 
+ARDUINO UNO
+1 BOTÃO
+1 BATERIA 9 VOLTS
+CONJUNTO DE CABOS
+
+MONTAGEM: 
+BATERIA CONECTADA NEGATIVO E POSITIVO AO ARDUINO
+ARDUINO CONECTADO AO NEGATIVO AOS RESISTORES QUE ESTÃO DEVIDAMENTE CONECTADOS AOS LEDS AZUL;VERMELHO E AMARELO 
+E O BOTÃO POSITIVO CONECTADO AO GND E O NEGATIVO A BATERIA
+
+Programação:
+O primeiro led sempre se mantem aceso no pino 1 como Baixo, o segundo pisca de 1 em 1 segundo no pino 4 como Alto e o terceiro é acionado por botão no pino 2 como Alto
